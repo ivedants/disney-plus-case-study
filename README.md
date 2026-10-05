@@ -12,7 +12,7 @@ proposing improvements that can be measured.
 - **Research:** visitors cannot search the catalog before subscribing, and
   plan details such as audio and video quality are buried in the Help Center.
 - **Proposal 1, a guided plan recommender:** a short question flow, led by a
-  character the visitor picks, that recommends a subscription plan. Includes
+  Disney character the visitor picks, that recommends a subscription plan. Includes
   the decision logic and success metrics (HEART).
 - **Proposal 2, saving and sharing scenes:** a response to Netflix Moments,
   using saved-scene data to improve search and regional recommendations.
